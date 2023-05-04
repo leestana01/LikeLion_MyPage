@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>자기소개 페이지</title>
+</head>
+<body>
+    <div class="header">
+        <div class="headerDescription">
+            <h1><a href="https://github.com/leestana01">LEESH (이 수 혁)</a></h1>
+            <h2> LikeLion Developer</h2>
+        </div>
+        <nav class="headerSideMenu">
+            <ul>
+                <li><a href="">About</a></li>
+                <li><a href="">Menu2</a></li>
+                <li><a href="">Menu3</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="main">
+        <div class="layout1">
+            <div class="layout1_content">
+                <h2>LikeLion Developer (Back-End 예정)</h2>
+                <h1>L E E S H</h1>
+                <br/>
+                <h3> Tel | 010-****-4033 </h3>
+                <h3> GitHub | Leestana01 </h3>
+            </div>
+        </div>
+        <div class="layout2">
+            <div class="circle-photo">
+                <img src="https://avatars.githubusercontent.com/u/74558236?v=4" width="250px" height="250px">
+            </div>
+            <div>
+                <img style="margin-left: 25%;" id="shin" width=200px height = 150px>
+            </div>
+        </div>
+    </div>
+    
+</body>
+
+<script>
+
+    function imgChangeTrigger(){
+        characterList = ['짱구','철수','훈이','유리','액션','오수']
+        document.getElementById("shin").src = `http://${characterList[now]}.짱구캐릭터.메인.한국`
+        now = now>4 ? 0 : now+1
+    }
+
+    var now = 0
+    setInterval(() => imgChangeTrigger(), 2000);
+
+</script>
+
+</html>
