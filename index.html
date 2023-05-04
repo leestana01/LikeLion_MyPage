@@ -49,7 +49,7 @@
 
     function imgChangeTrigger(){
         characterList = ['짱구','철수','훈이','유리','액션','오수']
-        document.getElementById("shin").src = `http://${characterList[now]}.짱구캐릭터.메인.한국`
+        document.getElementById("shin").src = `./imgs/${characterList[now]}.png`
         now = now>4 ? 0 : now+1
     }
 
