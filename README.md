@@ -1,6 +1,8 @@
 # LikeLion_MyPage
 ## 동아리 과제 _ 자기소개 페이지
-![ReadmeImg](https://user-images.githubusercontent.com/74558236/236281750-6fc78933-c8d8-4f1e-949f-ca23a7b44cd4.png)
+![edit_ReadmeImg](https://user-images.githubusercontent.com/74558236/236282791-4ca0950e-0d90-43b9-8010-a98cce7cd7c3.png)
+
+
 
 ## 바로가기 링크
 https://leestana01.github.io/LikeLion_MyPage/index.html
