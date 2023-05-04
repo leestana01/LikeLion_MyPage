@@ -38,7 +38,7 @@
     display: flex;
     position: relative;
     width: 100%;
-    padding-top: 43%; /* 16:9 비율을 위한 패딩 값 56.25%*/
+    padding-top: 43%;
     overflow: auto; /* 스크롤바 추가 */
 }
 .layout1, .layout2 {
