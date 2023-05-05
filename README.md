@@ -1,6 +1,7 @@
 # LikeLion_MyPage
 ## 동아리 과제 _ 자기소개 페이지
-![edit_ReadmeImg](https://user-images.githubusercontent.com/74558236/236282791-4ca0950e-0d90-43b9-8010-a98cce7cd7c3.png)
+![edit_그림1](https://user-images.githubusercontent.com/74558236/236379200-b0cf439d-fc11-4013-a7c1-3604fec3aa41.png)
+
 
 
 
