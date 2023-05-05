@@ -11,4 +11,5 @@ https://leestana01.github.io/LikeLion_MyPage/index.html
 - 이름 및 직군
 - 개인 정보 및 프로필
 - 반복해서 나타나는 짱구 그림
+
 명함의 느낌을 내기 위하여 이와 같이 구성하였습니다!
