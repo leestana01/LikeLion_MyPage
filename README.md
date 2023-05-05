@@ -9,8 +9,7 @@
 https://leestana01.github.io/LikeLion_MyPage/index.html
 
 ## 기능 소개
-- 이름 및 직군
-- 개인 정보 및 프로필
+- 상단 메뉴 바 - HyperLink 적용
+- 이름 및 직군 
+- 개인 정보 및 프로필(GitHub Profile Img와 연동)
 - 반복해서 나타나는 짱구 그림
-
-명함의 느낌을 내기 위하여 이와 같이 구성하였습니다!
